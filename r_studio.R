@@ -1,0 +1,3 @@
+for (numbers in 1:10) {
+  print(numbers)
+}
